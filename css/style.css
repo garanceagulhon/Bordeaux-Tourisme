@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;400;500&display=swap');
+
+@import url("components/card.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/navbar.css");
+
+
+
+
+body {
+	background-color:#F7D08A;
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+
+}
+
+h1,h2,h3 {
+	font-family: ;,sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+
+font-family: 'Outfit', sans-serif; 
+text-align: center;
+padding-bottom: 60px;
+padding-top: 60px;
+font-size: 25px;
+font-style: italic;
+
+
+}
+
+h4 {
+	color: black;
+	font-family: ;
+
+
+}
+
+bouton
